@@ -1,0 +1,6 @@
+# HydraCore Main Reservoir firmware manifest
+profile=main
+version=1.1.1-main
+firmware_url=https://raw.githubusercontent.com/HydraCoreSystems/HydraCore-Firmware/main/main/MainReservoir_v1.1.1.bin
+md5=
+notes=Corrects local Eastern time and daylight-saving handling.
