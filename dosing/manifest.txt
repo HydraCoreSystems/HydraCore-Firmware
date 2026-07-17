@@ -1,6 +1,6 @@
 # HydraCore Dosing Node
 profile=dosing
 version=0.2.0-dose
-firmware_url=https://raw.githubusercontent.com/HydraCoreSystems/HydraCore-Firmware/main/dosing/sketch_jul14a.ino.bin
+firmware_url=https://raw.githubusercontent.com/HydraCoreSystems/HydraCore-Firmware/main/dosing/HydraCore_Dosing_Node_v0_2_1_Cloud_Handoff_Fix.ino.bin
 md5=
 notes=Initial GitHub OTA support for the HydraCore Dosing Node.
